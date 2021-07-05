@@ -3,7 +3,6 @@
 
 ### Contact Me
 <a href="https://rudruddl.tistory.com"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://rudruddl.tistory.com"/></a>
-<a href="https://gus2rud@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://gus2rud@gmail.com"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=honggoii)](https://solved.ac/honggoii)
 
